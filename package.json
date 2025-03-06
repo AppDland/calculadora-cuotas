@@ -1,8 +1,8 @@
 {
-  "name": "calculadora-precios",
+  "name": "calculadora-cuotas",
   "version": "0.1.0",
   "main": "index.ts",
-  "description": "Calculadora de precios",
+  "description": "Calculadora de cuotas",
   "author": "AppDland",
   "scripts": {
     "start": "expo start",
